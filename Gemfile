@@ -29,6 +29,8 @@ gem 'sqlite3'
  group :development, :test do
 #   gem 'webrat'
     gem 'rspec-rails', '2.6.1'
+    gem 'spork', '0.9.0.rc8'
+
  end
 
 group :test do
