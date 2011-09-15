@@ -30,7 +30,7 @@ gem 'sqlite3'
 #   gem 'webrat'
     gem 'rspec-rails', '2.6.1'
     gem 'spork', '0.9.0.rc8'
-
+    gem 'annotate', '2.4.0'
  end
 
 group :test do
